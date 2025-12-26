@@ -33,7 +33,9 @@ To develop a C program using the static storage class in a function with a param
 ### Step 8:
   Stop
 # Program:
+![26](https://github.com/user-attachments/assets/affdce52-30cf-4523-b8a6-ab94ba22092d)
 # Output:
+![26 o](https://github.com/user-attachments/assets/9898a612-0442-4511-94de-c1420d0dee4a)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -79,7 +81,11 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 11:
   Stop
 # Program:
+![27](https://github.com/user-attachments/assets/92823e4e-bf78-41bd-b0ee-ff14eecf2757)
+![27 2](https://github.com/user-attachments/assets/0b757df3-85e3-47ea-a720-f3d63c81a71a)
+
 # Output:
+![27 o](https://github.com/user-attachments/assets/e3dfde85-3e49-4f97-8067-10a892a5df2f)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -123,7 +129,10 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10:
   Stop
 # Program:
+![28](https://github.com/user-attachments/assets/c8a1d58e-cc52-4af2-8ae7-0295e86d8274)
+![28 2](https://github.com/user-attachments/assets/e70b1c64-c9f6-4bce-a351-1b989f827bb4)
 # Output:
+![28 o](https://github.com/user-attachments/assets/bd5a6916-bb04-4d5e-be3f-fc52a6da45dc)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -166,7 +175,9 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 9:
   Stop
 # Program:
+![29](https://github.com/user-attachments/assets/c87336b3-b819-4a1d-813c-7ae923d6190c)
 # Output:
+![29 o](https://github.com/user-attachments/assets/4773f1e4-9d70-40bb-baed-63de898e5dc8)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
@@ -202,7 +213,9 @@ Thus, the program was implemented and executed successfully, and the required ou
 ### Step 10:
   Stop
 # Program:
+![30](https://github.com/user-attachments/assets/8f781b82-cbf2-4532-8cbb-b8b0b39a8d3d)
 # Output:
+![30 o](https://github.com/user-attachments/assets/d29b2edb-9956-4da5-b74f-c6681ea236fc)
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
 
